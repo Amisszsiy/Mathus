@@ -8,7 +8,7 @@ My first bachelor's degree was in Liberal Arts (Japanese-Psychology) from Thamma
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [mathus.songdechagraiwud@gmail.com](mailto:mathus.songdechagraiwud@gmail.com)
-* 🚀  I'm currently working on [E-commerce site for selling home decoration items](http://https://github.com/Amisszsiy/Deco)
+* 🚀  I'm currently working on [E-commerce site for selling home decoration items](https://github.com/Amisszsiy/Deco)
 * 🧠  I'm learning Redis, .NET core 8 web API
 * ⚡  I got Azure Fundamental (AZ-900) certificate last year and I set my goal to get Azure Developer (AZ-204) within this year
 
