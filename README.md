@@ -4,7 +4,7 @@ Hi 👋 My name is Mathus Songdechagraiwud
 Back end developer
 ------------------
 
-My first bachelor's degree was in Liberal Arts (Japanese-Psychology) from Thammasat University. After working as a coordinator for half a year, I became interested in programming and decided to study computer science at Sukhothai Thammathirat Open University while working. I graduated four years later and took a position as a developer in the same company (NC Network Asia Co., Ltd.). I built several utility web apps for them, such as a work-time management app or website using .NET Core 6 and the Laravel framework.
+My first bachelor's degree was in Liberal Arts (Psychology) from Thammasat University. After working as a coordinator for half a year, I became interested in programming and decided to study computer science at Sukhothai Thammathirat Open University while working. I graduated four years later and took a position as a developer in the same company (NC Network Asia Co., Ltd.). I built several utility web apps for them, such as a work-time management app or website using .NET Core 6 and the Laravel framework.
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [mathus.songdechagraiwud@gmail.com](mailto:mathus.songdechagraiwud@gmail.com)
